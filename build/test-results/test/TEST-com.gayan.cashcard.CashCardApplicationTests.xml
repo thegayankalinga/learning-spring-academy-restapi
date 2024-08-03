@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gayan.cashcard.CashCardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-03T10:21:58" hostname="Gayans-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.gayan.cashcard.CashCardApplicationTests" time="0.002"/>
+  <system-out><![CDATA[2024-08-03T15:51:58.063+05:30  INFO 14014 --- [CashCard] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.gayan.cashcard.CashCardApplicationTests]: CashCardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-08-03T15:51:58.065+05:30  INFO 14014 --- [CashCard] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.gayan.cashcard.CashCardApplication for test class com.gayan.cashcard.CashCardApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-08-03T15:51:58.086+05:30  INFO 14014 --- [CashCard] [    Test worker] c.g.cashcard.CashCardApplicationTests    : Starting CashCardApplicationTests using Java 17.0.12 with PID 14014 (started by gayankalinga in /Users/gayankalinga/Developer/cashcard)
+2024-08-03T15:51:58.087+05:30  INFO 14014 --- [CashCard] [    Test worker] c.g.cashcard.CashCardApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-08-03T15:51:58.410+05:30  INFO 14014 --- [CashCard] [    Test worker] c.g.cashcard.CashCardApplicationTests    : Started CashCardApplicationTests in 0.339 seconds (process running for 1.719)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

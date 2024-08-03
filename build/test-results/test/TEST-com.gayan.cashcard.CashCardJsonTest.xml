@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gayan.cashcard.CashCardJsonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-03T10:21:57" hostname="Gayans-MacBook-Pro.local" time="0.598">
+  <properties/>
+  <testcase name="cashCardSerializationTest()" classname="com.gayan.cashcard.CashCardJsonTest" time="0.578"/>
+  <testcase name="cashCardDeserialisationTest()" classname="com.gayan.cashcard.CashCardJsonTest" time="0.018"/>
+  <system-out><![CDATA[15:51:57.050 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.gayan.cashcard.CashCardJsonTest]: CashCardJsonTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:51:57.099 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.gayan.cashcard.CashCardApplication for test class com.gayan.cashcard.CashCardJsonTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-08-03T15:51:57.283+05:30  INFO 14014 --- [CashCard] [    Test worker] com.gayan.cashcard.CashCardJsonTest      : Starting CashCardJsonTest using Java 17.0.12 with PID 14014 (started by gayankalinga in /Users/gayankalinga/Developer/cashcard)
+2024-08-03T15:51:57.283+05:30  INFO 14014 --- [CashCard] [    Test worker] com.gayan.cashcard.CashCardJsonTest      : No active profile set, falling back to 1 default profile: "default"
+2024-08-03T15:51:57.454+05:30  INFO 14014 --- [CashCard] [    Test worker] com.gayan.cashcard.CashCardJsonTest      : Started CashCardJsonTest in 0.326 seconds (process running for 0.762)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
